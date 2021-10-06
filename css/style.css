@@ -1,0 +1,180 @@
+.logo_kt {
+    transform: translate(-150px);
+}
+
+/*.cont_1{
+    margin-right: 0px !important;
+} */
+/*------ section 1 -------*/
+.sec_1 {
+    background-image: url(../img/hero_bg.jpg);
+    height: 600px;
+    position: relative;
+    width: 100%;
+}
+
+.sec_1 .container {
+    text-align: left;
+    padding-top: 150px;
+}
+
+/*------ section 1 End -------*/
+
+
+/*------ section 2-------*/
+.sec_2 {
+    position: relative;
+    margin-top: -100px
+}
+
+.bg_color{
+    background-color: rgb(50, 128, 148);
+    padding: 50px 20px 50px 20px;
+    text-align: center;
+}
+@media(max-width:576px){
+    .sec_2{
+        margin-top: 0px;
+    }
+}
+/*------ section 2 End -------*/
+
+
+/*------ section 3 -------*/
+.sec_3 {
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sec_3 .container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.sec_3 .container>.row {
+    text-align: center;
+    padding-bottom: 50px;
+}
+.sec_3 .container.row .text_align{
+    text-align: left;
+}
+.text_m h5 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.text_3{
+    color: #000000;
+    font-family: "Raleway", Sans-serif;
+    font-size: 18px;
+    line-height: 1.61em;
+    letter-spacing: 0.1px;
+}
+
+/*--------- section 3 end ----------*/
+
+/*---------- section 4----------*/
+.sec_4 .container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+.img1{
+    position: relative;
+    width: 100%;
+    display:block;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.sec_4text{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.sec_4 .container-fluid .row h5{
+    color: red;
+}
+.sec_4 .container-fluid .row h4{
+    padding: 20px 0px 20px 0px;
+}
+.sec_4 .container-fluid .row p{
+    padding-bottom: 20px;
+}
+
+
+/*---------- section 4----------*/
+
+/*---------- section 5----------*/
+.sec_5 {
+    background-color: rgba(0, 0, 0, 0.79);
+    color: ghostwhite;
+}
+.sec_5 .container .row{
+    align-items: center;
+    align-content: center;
+}
+.sec_5 .container .row .sec5_text{
+    color: red;
+}
+
+
+/*---------- section 5 end----------*/
+
+/*---------- section 7----------*/
+.sec_7 {
+    background-color: rgba(0, 0, 0, 0.79);
+    color: ghostwhite;
+}
+.sec_7 .row .sec7_ic{
+    align-items: center;
+    align-content: center;
+}
+/*---------- section 7 end----------*/
+
+.font-1 {
+    font-weight: bold;
+    color: #fff;
+}
+
+.ssec1_text {}
+
+.font_2 {
+    color: #fff;
+}
+
+.cont_3 {
+    background-color: gainsboro;
+    height: 250px;
+
+}
+
+.sec1cont2_text {
+    margin-bottom: 1.5em;
+    font-weight: bold;
+    color: white;
+    font-family: "Raleway", Sans-serif;
+
+}
+
+.form1 {
+    padding-bottom: 100px;
+}
+
+.font_2 {
+    font-size: 35px;
+}
+
+.sec2cont3_text {
+    display: block;
+    max-width: 483px;
+    margin: auto;
+    padding-top: 25px;
+
+}
+.ul_list ul{
+    text-align: center;
+}
+.ul_list ul li{
+display: inline-block;
+margin-left:-4px;
+width:20%;
+}
